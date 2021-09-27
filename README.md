@@ -1,5 +1,5 @@
 # mySQL
-mySQL Learning as part of revisiting mySQL concepts 🤔
+mySQL Learning as part of revisiting mySQL concepts with help from Mike Dane of Giraffe Academy :smile:
 
 - Create
 - Select
